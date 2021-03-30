@@ -43,7 +43,7 @@ public class ProfileList {
 
 *//////////////////////////////////////
 
-    // Zoekt als zorgverlener zijnde door het klantenbestand
+    // Zoekt door het klantenbestand voor de namen
     public Profile whichProfile() {
         Scan eigenScan = new Scan();
         Profile leeg = new Profile("", "", 0, 0, 0);

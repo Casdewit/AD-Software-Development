@@ -16,7 +16,7 @@ public class Menu {
 
 *//////////////////////////////////////
 
-    // Start programma. Kijkt of je zorgverlener of patiënt bent en vraagt evt om een wachtwoord
+    // Start programma. Kijkt of je zorgverlener of patiënt bent -- Taal instellen -- Runt de menu's
     public void startProgram() {
         Scan eigenScan = new Scan();
         ProfileList klantenBestand = new ProfileList();
@@ -44,7 +44,7 @@ public class Menu {
         }
     }
 
-    // Runt het menu of je wilt weergeven / bewerken / afsluiten / uitloggen
+    // Runt het menu of je wilt weergeven / bewerken / afsluiten / taal wijzigen / uitloggen
     public void runHoofdMenu(Profile patient) {
         Scan eigenScan = new Scan();
         while (!wiltUitloggen) {
@@ -70,7 +70,7 @@ public class Menu {
         }
     }
 
-    // Runt het menu voor gewichtmeetpunten als zorgverlener zijnde
+    // Runt het menu voor gewichtmeetpunten
     public void runGewichtMeetpuntMenu(Profile patient) {
         Scan eigenScan = new Scan();
         GewichtMeetPuntList gewichtList = new GewichtMeetPuntList();
@@ -98,7 +98,7 @@ public class Menu {
         menuTerug = false;
     }
 
-    // Runt het medicijn keuze menu als zorgverlener zijnde
+    // Runt het medicijn keuze menu
     public void runMedicijnMenu(Profile patient) {
         if (!isZorgverlener){
             patient.printMedicijnenPatient();

@@ -26,7 +26,7 @@ public class GewichtMeetPunt {
         System.out.println(Talen.rb().getString("gewichtMeetpunt") + gewicht + "kg\n");
     }
 
-    // Print streepjes en spaties uit per gewichtmeetpunt
+    // Print streepjes en spaties uit per gewichtmeetpunt. Voegt kleur toe afhankelijk van streefgewicht
     public void printStaven(double streefgewicht) {
         if (gewicht - streefgewicht > 2 || streefgewicht - gewicht > 2){
             String kleurGeel = "\u001B[33m";
