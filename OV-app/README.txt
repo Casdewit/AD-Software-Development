@@ -1,0 +1,1 @@
+To make the browser inside the app work, you have to use JxBrowser as library and add it to the project.
