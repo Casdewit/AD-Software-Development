@@ -1,0 +1,225 @@
+.canvas-header {
+    display: grid;
+    grid-template-columns: 0.25fr 1fr 0.25fr 0.5fr 0.25fr;
+    grid-auto-rows: minmax(40px, auto);
+}
+
+.title-round-box {
+    align-self: center;
+
+}
+
+.timer-box {
+    align-self: center;
+    justify-self: center;
+}
+
+
+.game-middle {
+    background-color: #61ce70;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-row: auto;
+    scrollbar-shadow-color: darkmagenta;
+}
+
+.map {
+    max-height: 400px;
+    width: 100%;
+    overflow: scroll;
+    background-color: white;
+}
+
+.map-img {
+    min-height: 410px;
+    min-width: 750px;
+    width: 100%;
+}
+
+.newsfeed {
+    background-color: white;
+    max-height: 400px;
+    overflow: scroll;
+}
+
+.newsfeed-title {
+    font-size: 18px;
+}
+
+.newsfeed-text {
+    font-size: 13px;
+}
+
+.newsfeed-paper {
+    font-size: 10px;
+}
+
+.infection-box table {
+    background-color: white;
+    width: 100%;
+}
+
+.canvas-footer {
+    display: grid;
+    background-color: white;
+    grid-template-columns: 0.5fr 0.5fr;
+}
+
+.scenario-box {
+    padding: 15px;
+}
+
+.question-box {
+    padding-left: 15px;
+    padding-bottom: 15px;
+    overflow: hidden;
+}
+
+.question-box > li {
+    text-decoration: none;
+}
+
+.question-tab {
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr;
+}
+
+#questionmark-img {
+    max-width: 40px;
+}
+
+.question-tab button {
+    width: 100%;
+    cursor: pointer;
+    padding: 10px 12px;
+    transition: 0.3s;
+    font-size: 14px;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), #61ce70;
+    border: 2px solid rgba(66, 133, 75, 0.71);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0;
+}
+
+.question-tab button:hover {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)), #61ce70;
+}
+
+.question-tab button.active {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)), #61ce70;
+}
+
+.question-content {
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+}
+
+.submit-button {
+    display: grid;
+}
+
+.question-bias-list li label {
+    cursor: pointer;
+}
+
+.question-measure-list li label {
+    cursor: pointer;
+}
+
+.question-bias-list li input {
+    cursor: pointer;
+}
+
+.question-measure-list li input {
+    cursor: pointer;
+}
+
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: white;
+    margin: 10% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+#model-content-big {
+    max-height: 600px;
+    overflow: scroll;
+}
+
+/* The closeModal Button */
+.closeModal {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.closeModal:hover,
+.closeModal:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#bias-mid-row {
+    background-color: rgba(175, 175, 175, 0.274);
+}
+
+#bias-table-div table, #all-bias-div table {
+    text-align: left;
+    border-spacing: 0px;
+}
+
+#bias-table-div table td, #all-bias-div table td {
+    padding: 15px;
+}
+
+#bias-table-div table tr, #all-bias-div table tr {
+    padding: 15px;
+}
+
+#bias-table-div table th, #all-bias-div table th {
+    padding: 15px;
+}

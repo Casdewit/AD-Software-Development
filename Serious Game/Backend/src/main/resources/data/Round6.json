@@ -1,0 +1,170 @@
+{
+  "roundNumber": "Ronde 6: ",
+  "roundTitle": "Het eind in zicht",
+  "timer": {
+    "minutes": 7
+  },
+  "scenario": {
+    "scenarioTitle": "Verdere versoepelingen",
+    "scenarioText": "Met de oplopende Olifantengriep cijfers heeft de regering van Digitanzanië een pakket met strengere maatregelen voorgesteld. Daarin wordt onder andere gepraat over een 3 meter afstandsregel, een avondklok vanaf 8 uur en het sluiten van alles behalve de supermarkten om zo contactmomenten zoveel mogelijk te beperken. Vanuit verschillende hoeken gaan mensen boos de straat op om tegen deze maatregelen te protesteren. Ze zouden te streng zijn en de onderbouwing voor het effect tegen de verspreiding gebrekkig. Vergelijkbare maatregelen zijn ook in Noord-Kropslavië ingezet. Daar zijn de cijfers voorzichtig optimistisch aan het worden."
+  },
+  "biasCollection": [
+    {
+      "biasChar": "a",
+      "biasName": "Confabulation",
+      "biasDescription": "We wisselen soms echte en verbeelde herinneringen in. Waardoor we onbewust overdreven, opgeblazen en vertekende herinneringen over onszelf en de wereld voortbrengen.",
+      "biasExample": "Vol overtuiging vertel je aan je collega's hoe op het bedrijfsfeest van 2009 Sjaak van afdeling finance net iets teveel had gedronken. Niemand herinnert zich het, maar je bent zo overtuig(en)d, dat ze het ook niet tegenspreken.",
+      "points": 0
+    },
+    {
+      "biasChar": "b",
+      "biasName": "Backfire effect",
+      "biasDescription": "We versterken onze eigen overtuigingen juist als we worden geconfronteerd met tegengesteld bewijs.",
+      "biasExample": "Neef Fred beweert op een verjaardagsfeestje dat zijn wijk aan het verloederen is. Op het moment dat je hem dalende criminaliteitscijfers laat zien in de afgelopen jaren schudt hij zijn hoofd. Dat zie je toch echt verkeerd. Dat is volgens hem alleen maar bewijs dat onderzoekers hun werk niet goed hebben gedaan.",
+      "points": 2
+    },
+    {
+      "biasChar": "c",
+      "biasName": "Self-serving bias",
+      "biasDescription": "We verbuigen ons waarnemingsvermogen om ons zelfbeeld in stand te houden, of om onszelf juist in een overdreven positieve manier te zien.",
+      "biasExample": "Manager Kees vindt zichzelf een geweldig mensen-mens met tact en empathie. Als je zijn medewerkers om een beschrijving vraagt van zijn mensen-vaardigheden, dan zou je eerder vermoeden dat Kees een weekdier met tentakels is dat in de zee leeft.",
+      "points": 5
+    }
+  ],
+  "measureQuestionCollection": [
+    {
+      "measureChar": "a",
+      "measureAnswer": "De situatie in Digitanzanië is anders dan de rest van de wereld. We houden vast aan de koers en gaan meer versoepelingen doorvoeren.",
+      "measurePoints": 0
+    },
+    {
+      "measureChar": "b",
+      "measureAnswer": "We zijn waakzaam en onderzoeken nog iets langer of vooral het afstand houden niet verlengd moet worden.",
+      "measurePoints": 5
+    },
+    {
+      "measureChar": "c",
+      "measureAnswer": "We houden vast aan de versoepelingen van de afstand. Maar we herzien onze conclusies als dit beter blijkt te zijn voor de complete bevolking.",
+      "measurePoints": 2
+    }
+  ],
+
+  "canvasCollection": [
+    {
+      "points": 1,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Olifantengriepcijfers stabiliseren internationaal",
+          "newsArticleMessage": "Na lange periode van onzekerheid lijken de eerste optimistische signalen te zien te zijn. Olifantengriepcijfers stijgen steeds minder snel. In enkele uitzonderingen is zelf een afname van het aantal actieve infecties waar te nemen. Ongetwijfeld is dit het effect van de genomen maatregelen en het intensiveren van de zorg.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "Half werk is geen werk",
+          "newsArticleMessage": "Hoewel de cijfers lijken te stabiliseren ging het niet zonder slag of stoot voor Digitanzanië. Een eerder aangekondigd pakket met noodmaatregelen werd afgezwakt na veel protest van oppositiepartijen en burgers. Deze halve maatregelen leidden in eerste instantie tot een onverminderde, snelle stijging van het virus. Na een noodoverleg werd er toch besloten de zwaardere maatregelen door te voeren met veel onrust als gevolg. Op veel plekken in het land wordt er geprotesteerd tegen het ad hoc beleid van de regering.",
+          "newsArticleSource": "~ Eerlijk Engelse Eiland ~",
+          "newsArticlePopup": true
+        }
+      ],
+      "infections": {
+        "healthy": 19289323,
+        "infected": 70121,
+        "mutated": 3371
+      }
+    },
+    {
+      "points": 2,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Olifantengriepcijfers stabiliseren internationaal",
+          "newsArticleMessage": "Na lange periode van onzekerheid lijken de eerste optimistische signalen te zien te zijn. Olifantengriepcijfers stijgen steeds minder snel. In enkele uitzonderingen is zelf een afname van het aantal actieve infecties waar te nemen. Ongetwijfeld is dit het effect van de genomen maatregelen en het intensiveren van de zorg.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "Onrust en ongenoegen",
+          "newsArticleMessage": "Er heerst veel onrust in Digitanzanië. Eerder kondigde de regering een pakket aan maatregelen af waar fel op werd gereageerd. Sindsdien zijn er meerdere aanpassingen gedaan om deze passend te maken op de lokale situatie in de verschillende provinciën. Ondanks ophef die de maatregelen veroorzaakten lijken ze wel effect te hebben. De curve met besmettingen in het land lijkt af te nemen. Op verschillende plekken gaan er al geluiden op voor een versoepeling van de noodmaatregelen.",
+          "newsArticleSource": "~ Eerlijk Engelse Eiland ~",
+          "newsArticlePopup": true
+        }
+      ],
+      "infections": {
+        "healthy": 19311409,
+        "infected": 49026,
+        "mutated": 2380
+      }
+    },
+    {
+      "points": 3,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Olifantengriepcijfers stabiliseren internationaal",
+          "newsArticleMessage": "Na lange periode van onzekerheid lijken de eerste optimistische signalen te zien te zijn. Olifantengriepcijfers stijgen steeds minder snel. In enkele uitzonderingen is zelfs een afname van het aantal actieve infecties waar te nemen. Ongetwijfeld is dit het effect van de genomen maatregelen en het intensiveren van de zorg.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "Onrust en ongenoegen",
+          "newsArticleMessage": "Er heerst veel onrust in Digitanzanië. Eerder kondigde de regering een pakket aan maatregelen af waar fel op werd gereageerd. Sindsdien zijn er meerdere aanpassingen gedaan om deze passend te maken op de lokale situatie in de verschillende provinciën. Ondanks ophef die de maatregelen veroorzaakten lijken ze wel effect te hebben. De curve met besmettingen in het land lijkt af te nemen. Op verschillende plekken gaan er al geluiden op voor een versoepeling van de noodmaatregelen.",
+          "newsArticleSource": "~ Eerlijk Engelse Eiland ~",
+          "newsArticlePopup": true
+        }
+      ],
+      "infections": {
+        "healthy": 19327705,
+        "infected": 33469,
+        "mutated": 1641
+      }
+    },
+    {
+      "points": 4,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Olifantengriepcijfers stabiliseren internationaal",
+          "newsArticleMessage": "Na lange periode van onzekerheid lijken de eerste optimistische signalen te zien te zijn. Olifantengriepcijfers stijgen steeds minder snel. In enkele uitzonderingen is zelf een afname van het aantal actieve infecties waar te nemen. Ongetwijfeld is dit het effect van de genomen maatregelen en het intensiveren van de zorg.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "Onrust en ongenoegen",
+          "newsArticleMessage": "Er heerst veel onrust in Digitanzanië. Eerder kondigde de regering een pakket aan maatregelen af waar fel op werd gereageerd. Sindsdien zijn er meerdere aanpassingen gedaan om deze passend te maken op de lokale situatie in de verschillende provinciën. Ondanks ophef die de maatregelen veroorzaakten lijken ze wel effect te hebben. De curve met besmettingen in het land lijkt af te nemen. Op verschillende plekken gaan er al geluiden op voor een versoepeling van de noodmaatregelen.",
+          "newsArticleSource": "~ Eerlijk Engelse Eiland ~",
+          "newsArticlePopup": true
+        }
+      ],
+      "infections": {
+        "healthy": 19340479,
+        "infected": 16684,
+        "mutated": 1064
+      }
+    },
+    {
+      "points": 5,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Olifantengriepcijfers stabiliseren internationaal",
+          "newsArticleMessage": "Na lange periode van onzekerheid lijken de eerste optimistische signalen te zien te zijn. Olifantengriepcijfers stijgen steeds minder snel. In enkele uitzonderingen is zelf een afname van het aantal actieve infecties waar te nemen. Ongetwijfeld is dit het effect van de genomen maatregelen en het intensiveren van de zorg.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "De daad bij het woord",
+          "newsArticleMessage": "Zoals beloofd zijn vandaag de eerste lichte versoepelingen van de Olifantengriep maatregelen zichtbaar in Digitanzanië. Het land volgde eerder Noord-Kropslavië in het nemen van omstreden en verregaande maatregelen met het gewenste resultaat als gevolg. De snelle stijging van de cijfers is de afgelopen periode afgenomen. Geluiden gaan zelfs op voor een verdere versoepeling.",
+          "newsArticleSource": "~ Eerlijk Engelse Eiland ~",
+          "newsArticlePopup": true
+        },
+        {
+          "newsArticleTitle": "De daad bij het woord",
+          "newsArticleMessage": "Zoals beloofd zijn vandaag de eerste lichte versoepelingen van de Olifantengriep maatregelen zichtbaar in Digitanzanië. Het land volgde eerder Noord-Kropslavië in het nemen van omstreden en verregaande maatregelen met het gewenste resultaat als gevolg. De snelle stijging van de cijfers is de afgelopen periode afgenomen. Geluiden gaan zelfs op voor een verdere versoepeling.",
+          "newsArticleSource": "~ Eerlijk Engelse Eiland ~",
+          "newsArticlePopup": true
+        }
+      ],
+      "infections": {
+        "healthy": 19349659,
+        "infected": 12506,
+        "mutated": 650
+      }
+    }
+  ]
+}

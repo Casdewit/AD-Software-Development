@@ -1,0 +1,193 @@
+{
+  "roundNumber": "Ronde 1: ",
+  "roundTitle": "De start",
+  "timer": {
+    "minutes": 7
+  },
+  "scenario": {
+    "scenarioTitle": "Hamsterwoede!",
+    "scenarioText": "Met oplopende Olifantengriepcijfers op de horizon zijn inwoners van Engelse Eiland massaal begonnen met het inslaan van tampons. Deze zouden helpen de Olifantengriep uit de neus te houden en daarmee een infectie te voorkomen. De regering van Engelse Eiland verzoekt haar burgers dringend om te stoppen met hamsteren, en verzekert hen ervan dat de voorraden groot genoeg zijn om iedereen te kunnen bedienen. Over de effectiviteit van het tampongebruik als preventie van de Olifantengriep zijn door experts nog geen uitspraken gedaan. In Digitanzanië beginnen de eerste geluiden al op te gaan om spullen in te slaan. Wat moet de overheid doen?"
+  },
+  "biasCollection": [
+    {
+      "biasChar": "a",
+      "biasName": "Decoy effect",
+      "biasDescription": "In de keuze tussen twee producten zal er een voorkeur optreden voor een van de twee zodra je een er een optie tussen plaatst die (asymmetrisch) dichter bij een van de opties ligt.",
+      "biasExample": "In de bioscoop verkoopt men kleine, medium en grote popcorn voor €2.50, €3,50 en €4,00 respectievelijk.",
+      "points": 0
+    },
+    {
+      "biasChar": "b",
+      "biasName": "Decoy effect",
+      "biasDescription": "In de keuze tussen twee producten zal er een voorkeur optreden voor een van de twee zodra je een er een optie tussen plaatst die (asymmetrisch) dichter bij een van de opties ligt.",
+      "biasExample": "In de bioscoop verkoopt men kleine, medium en grote popcorn voor €2.50, €3,50 en €4,00 respectievelijk.",
+      "points": 5
+    },
+    {
+      "biasChar": "c",
+      "biasName": "Decoy effect",
+      "biasDescription": "In de keuze tussen twee producten zal er een voorkeur optreden voor een van de twee zodra je een er een optie tussen plaatst die (asymmetrisch) dichter bij een van de opties ligt.",
+      "biasExample": "In de bioscoop verkoopt men kleine, medium en grote popcorn voor €2.50, €3,50 en €4,00 respectievelijk.",
+      "points": 2
+    }
+  ],
+  "measureQuestionCollection": [
+    {
+      "measureChar": "a",
+      "measureAnswer": "We plaatsen een overzicht van de informatie over het virus en omschrijven welke soorten middelen infectie kunnen afremmen of tegenhouden.",
+      "measurePoints": 5
+    },
+    {
+      "measureChar": "b",
+      "measureAnswer": "We plaatsen een overzicht van de informatie over het virus en omschrijven welke soorten middelen infectie kunnen afremmen of tegenhouden.",
+      "measurePoints": 0
+    },
+    {
+      "measureChar": "c",
+      "measureAnswer": "We plaatsen een overzicht van de informatie over het virus en omschrijven welke soorten middelen infectie kunnen afremmen of tegenhouden.",
+      "measurePoints": 2
+    }
+  ],
+  "canvasCollection": [
+    {
+      "points": 0,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": true
+        }
+      ],
+      "infections": {
+        "healthy": 999,
+        "infected": 999,
+        "mutated": 999
+      }
+    },
+    {
+      "points": 0,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": true
+        }
+      ],
+      "infections": {
+        "healthy": 999,
+        "infected": 999,
+        "mutated": 999
+      }
+    },
+    {
+      "points": 0,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Experts maken zich zorgen over stijgende aantal besmettingen Olifantengriep",
+          "newsArticleMessage": "Veel blijft nog onbekend over de onlangs ontdekte Olifantengriep. Vooralsnog lijkt Noord-Kropslavië het enige land dat getroffen is. Inzichten in de verspreiding en werking van het virus blijven nog uit. Authoriteiten in Degressia zijn begonnen met de eerste maatregelen om het land voor te bereiden op een uitbraak.",
+          "newsArticleSource": "~ Degressia Dagblad ~",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "Een nieuw en potentieel levensbedreigend virus is gevonden in Noord-Kropslavië",
+          "newsArticleMessage": "De afgelopen dagen zijn er steeds meer gevallen bekend geworden van een nieuw en mogelijk levensbedreigend virus in Noord-Kropslavië. Genaamd de olifantengriep vanwege de gezichtsmutatie die het laatste stadium van besmetting met dit virus met zich mee brengt: een permanente verandering van de neus in een slurf. Epidemiologen en virologen zijn druk bezig met een onderzoek om het virus tegen te gaan.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": true
+        },
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": true
+        }
+      ],
+      "infections": {
+        "healthy": 999,
+        "infected": 999,
+        "mutated": 999
+      }
+    },
+    {
+      "points": 0,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": false
+        }
+      ],
+      "infections": {
+        "healthy": 999,
+        "infected": 999,
+        "mutated": 999
+      }
+    },
+    {
+      "points": 0,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": true
+        },
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": true
+        },
+        {
+          "newsArticleTitle": "",
+          "newsArticleMessage": "",
+          "newsArticleSource": "",
+          "newsArticlePopup": true
+        }
+      ],
+      "infections": {
+        "healthy": 999,
+        "infected": 999,
+        "mutated": 999
+      }
+    }
+  ]
+}

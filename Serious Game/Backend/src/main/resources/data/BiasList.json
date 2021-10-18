@@ -1,0 +1,114 @@
+[
+  {
+    "biasChar": "",
+    "biasName": "Anchoring",
+    "biasDescription": "We laten een eerder beschikbaar gekregen stukje informatie onze latere besluitvorming beïnvloeden. Ondanks dat deze info niet relevant hoeft te zijn. Dit gebeurt vaak als er prijzen of schattingen mee gemoeid zijn.",
+    "biasExample": "Wanneer je onderhandelt om prijs is het raadzaam om een absurd openingsbod te negeren. En voordat je zelf een bod plaatst, de tegenpartij een realistisch tegenbod te laten plaatsen. Om te voorkomen dat het eindigt in de buurt van dit absurde eerste bod.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Authority bias",
+    "biasDescription": "We schatten de mening van een door ons bestempeld autoriteit in als nauwkeuriger en meer 'waar'. Dit is onafhankelijk van onze rationele beoordeling van de boodschap of content. Of mogelijk zelfs onafhankelijk van het expertisegebied van die persoon.",
+    "biasExample": "We nemen van externe consultants met een bepaalde expertise sneller een aanbeveling over. Zelfs als dat buiten het eigen expertisegebied valt.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Back-fire effect",
+    "biasDescription": "We versterken onze eigen overtuigingen juist als we worden geconfronteerd met tegengesteld bewijs.",
+    "biasExample": "Neef Fred beweert op een verjaardagsfeestje dat zijn wijk aan het verloederen is. Op het moment dat je hem dalende criminaliteitscijfers laat zien in de afgelopen jaren schudt hij zijn hoofd. Dat zie je toch echt verkeerd. Dat is volgens hem alleen maar bewijs dat onderzoekers hun werk niet goed hebben gedaan.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Confabulation",
+    "biasDescription": "We wisselen soms echte en verbeelde herinneringen in. Waardoor we onbewust overdreven, opgeblazen en vertekende herinneringen over onszelf en de wereld voortbrengen.",
+    "biasExample": "Vol overtuiging vertel je aan je collega's hoe op het bedrijfsfeest van 2009 Sjaak van afdeling finance net iets teveel had gedronken. Niemand herinnert zich het, maar je bent zo overtuig(en)d, dat ze het ook niet tegenspreken.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Confirmation bias",
+    "biasDescription": "We geven de voorkeur aan het zoeken, vinden en verwerken van informatieprikkels die onze bestaande overtuigingen bevestigen.",
+    "biasExample": "Je gelooft dat vrouwen slimmer zijn dan mannen. En je wordt je er vooral bewust van als je een slimme vrouw ontmoet. Voorbeelden van minder slimme vrouwen en mannen ontgaan je sneller.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Decoy effect",
+    "biasDescription": "In de keuze tussen twee producten zal er een voorkeur optreden voor een van de twee zodra je een er een optie tussen plaatst die (asymmetrisch) dichter bij een van de opties ligt.",
+    "biasExample": "In de bioscoop verkoopt men kleine, medium en grote popcorn voor €2.50, €3,50 en €4,00 respectievelijk.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Empathy gap",
+    "biasDescription": "We onderschatten onbewust het effect van basale lichamelijke behoeften (zoals honger, vermoeidheid, of stress; zogenaamde \"hot states\") op onze besluitvorming. De hot state belemmert onze rationele besluitvorming. Wat ervoor zorgt dat we moeite hebben om ons te verplaatsen in mensen die in een meer rationele 'cold state' zijn. Dit geldt ook vice versa.",
+    "biasExample": "Rechters verwerpen vlak voor de lunch vaker aanvragen voor vervroegde vrijlating. Zo kan deze gevangene op weinig sympathie rekenen om 11:30 uur. Omdat de rechter een knagend hongergevoel in zijn buik onbewust verwisselt met een slecht voorgevoel.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Hot-hand fallacy",
+    "biasDescription": "We verwachten dat iemand die succes heeft gehad ook in de toekomst een grotere kans heeft op succes. Terwijl daar op basis van de logische kansverdeling geen aanleiding toe is.",
+    "biasExample": "Een basketballer heeft met vrije worpen een gemiddelde van 50% raak. Maar vanavond heeft hij de eerste 3 vrije worpen raak gegooid. Hij is niet te stoppen!",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Illusion of validity",
+    "biasDescription": "We overschatten ons vermogen om data juist te interpreteren en er voorspellingen over te doen. Zeker als het gaat om data die \"consistente\" patronen laat zien en een verhaal lijkt te vertellen.",
+    "biasExample": "De dataset wijst erop dat de verkoop van hamburgers wordt gestimuleerd door de kleur van het postertje bij de balie groen of geel te maken. Terwijl dit er eigenlijk niets mee te maken heeft.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Illusory correlation",
+    "biasDescription": "We zien makkelijk verbanden tussen eigenschappen, variabelen en fenomenen die er in werkelijkheid niet zijn. Die neiging hebben we zeker als we naar datareeksen kijken.",
+    "biasExample": "Als amateur astroloog heb je al jaren de stand van de maan geobserveerd. Je concludeert dat er een relatie is tussen de maanfases en de dalende of juist stijgende geboortecijfers in Amsterdam.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Loss aversion",
+    "biasDescription": "We hebben de neiging om (potentieel) verlies zwaarder te laten wegen als we een keuze krijgen om iets te winnen versus verliezen.",
+    "biasExample": "Je krijgt de keuze om een weddenschap te doen met inleg van 10 euro uit eigen zak. De kans op winst is 50%. Als je wint krijg je 20 euro, als je verliest niets. Onbewust ga je die weddenschap liever niet aan, ondanks dat je rationeel gezien per saldo op nul uitkomt.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Negativity bias",
+    "biasDescription": "Negatieve prikkels hebben een disproportioneel groter effect op onze gemoedstoestand dan positieve prikkels van eenzelfde intensiteit.",
+    "biasExample": "Je zit al een uur in de vergadering met de directie. Je realiseert je dat het 90% van de tijd gaat over risico's, verliezen, bedreigingen en het vermijden van deze zaken.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Reactance",
+    "biasDescription": "We ervaren onbewust een onplezierig gevoel en aversie richting mensen die ons beperken in onze keuzes of autonomie. Zeker als we deze mensen bestempelen als (de) autoriteit. Dit stuurt ons in, vaak opstandig, gedrag.",
+    "biasExample": "In een openbaar wc-gebouw hangt een bordje met \"Je mag niet op de muren tekenen\". Deze muren zijn volgekalkt. In een ander wc-gebouw waar het bordje niet hangt staat een enkele bescheiden liefdesverklaring.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Representativeness heuristic",
+    "biasDescription": "We hebben de neiging zaken die op elkaar lijken, die representatief zijn voor elkaar, met elkaar te verbinden. Ook als daar geen correlatie of causaal verband tussen bestaat.",
+    "biasExample": "In sommige alternatieve geneeswijzen wordt het aangeraden om orgaanvlees te eten overeenkomstig met het orgaan waar de patiënt last van heeft. Het gezonde, geconsumeerde vlees zou dan helpen het zieke weefsel te helen.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Self-serving bias",
+    "biasDescription": "We verbuigen ons waarnemingsvermogen om ons zelfbeeld in stand te houden, of om onszelf juist in een overdreven positieve manier te zien.",
+    "biasExample": "Manager Kees vindt zichzelf een geweldig mensen-mens met tact en empathie. Als je zijn medewerkers om een beschrijving vraagt van zijn mensen-vaardigheden, dan zou je eerder vermoeden dat Kees een weekdier met tentakels is dat in de zee leeft.",
+    "points": 0
+  },
+  {
+    "biasChar": "",
+    "biasName": "Spotlight effect",
+    "biasDescription": "We denken soms dat we aandachtiger worden gezien en gehoord door anderen dan werkelijk waar is.",
+    "biasExample": "Tijdens een presentatie ben je gespannen over die paar zweetdruppels die op je voorhoofd staan. Je verwacht dat iedereen die zal zien en er iets van zal vinden. In werkelijkheid heeft bijna niemand het door. Bovendien vindt het publiek er helemaal niets van.",
+    "points": 0
+  }
+]

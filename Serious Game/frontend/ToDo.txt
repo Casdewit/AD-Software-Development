@@ -1,0 +1,22 @@
+TO DO LIST / STAPPENPLAN
+------------------------------------------
+Als je inlogt laad het spel en krijg je een pop-up met welkom en een start knop (die de timer start)
+-Pop up met welkom en start knop die onderstaande laad:
+    Onderstaande is een volledig canvas
+    -class title-round bewerken
+    -class timer-box bewerken
+    -class map inladen met symbolen
+    -class newsfeed-items bewerken met 1 pop up ervan
+    -class infection-box bevat table class infection-table die je wilt bewerken
+    -class scenario-box bevat scenario-title & scenario-tekst die je wilt bewerken
+    -class question-box bevat question-title & question-tekst die je wilt bewerken en laad de bias vragen
+    -antwoorden inleveren laad nieuwe ronde
+
+Dropdown menu mooier maken
+    - ipv hover een click menu
+    - dropdown menu smoother maken en goed allignen
+
+Back-end met database?
+
+Nieuwsfeed laten sliden van de zijkant
+- https://www.youtube.com/watch?v=_oVBA15MdoI

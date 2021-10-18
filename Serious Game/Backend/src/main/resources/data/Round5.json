@@ -1,0 +1,194 @@
+{
+  "roundNumber": "Ronde 5: ",
+  "roundTitle": "Het hoogtij",
+  "timer": {
+    "minutes": 7
+  },
+  "scenario": {
+    "scenarioTitle": "Maatwerkregel",
+    "scenarioText": "Met de oplopende Olifantengriep cijfers heeft de regering van Digitanzanië een pakket met strengere maatregelen voorgesteld. Daarin wordt onder andere gepraat over een 3 meter afstandsregel, een avondklok vanaf 8 uur en het sluiten van alles behalve de supermarkten om zo contactmomenten zoveel mogelijk te beperken. Vanuit verschillende hoeken gaan mensen boos de straat op om tegen deze maatregelen te protesteren. Ze zouden te streng zijn en de onderbouwing voor het effect tegen de verspreiding gebrekkig. Vergelijkbare maatregelen zijn ook in Noord-Kropslavië ingezet. Daar zijn de cijfers voorzichtig optimistisch aan het worden."
+  },
+  "biasCollection": [
+    {
+      "biasChar": "a",
+      "biasName": "Illusory correlation",
+      "biasDescription": "We zien makkelijk verbanden tussen eigenschappen, variabelen en fenomenen die er in werkelijkheid niet zijn. Die neiging hebben we zeker als we naar datareeksen kijken.",
+      "biasExample": "Als amateur astroloog heb je al jaren de stand van de maan geobserveerd. Je concludeert dat er een relatie is tussen de maanfases en de dalende of juist stijgende geboortecijfers in Amsterdam.",
+      "points": 2
+    },
+    {
+      "biasChar": "b",
+      "biasName": "Authority bias",
+      "biasDescription": "We schatten de mening van een door ons bestempeld autoriteit in als nauwkeuriger en meer 'waar'. Dit is onafhankelijk van onze rationele beoordeling van de boodschap of content. Of mogelijk zelfs onafhankelijk van het expertisegebied van die persoon.",
+      "biasExample": "We nemen van externe consultants met een bepaalde expertise sneller een aanbeveling over. Zelfs als dat buiten het eigen expertisegebied valt.",
+      "points": 0
+    },
+    {
+      "biasChar": "c",
+      "biasName": "Reactance bias",
+      "biasDescription": "We ervaren onbewust een onplezierig gevoel en aversie richting mensen die ons beperken in onze keuzes of autonomie. Zeker als we deze mensen bestempelen als (de) autoriteit. Dit stuurt ons in, vaak opstandig, gedrag.",
+      "biasExample": "In een openbaar wc-gebouw hangt een bordje met \"Je mag niet op de muren tekenen\". Deze muren zijn volgekalkt. In een ander wc-gebouw waar het bordje niet hangt staat een enkele bescheiden liefdesverklaring.",
+      "points": 5
+    }
+  ],
+  "measureQuestionCollection": [
+    {
+      "measureChar": "a",
+      "measureAnswer": "We laten de maatregelen doorgaan met een duidelijk plan wanneer ze versoepeld kunnen worden.",
+      "measurePoints": 5
+    },
+    {
+      "measureChar": "b",
+      "measureAnswer": "We verlichten het plan voor de avondklok naar 21:30 en verkleinen de afstand tot 1 meter.",
+      "measurePoints": 2
+    },
+    {
+      "measureChar": "c",
+      "measureAnswer": "We schrappen de meest bezwaarlijke maatregelen en voeren alleen de breder gedragen maatregelen in.",
+      "measurePoints": 0
+    }
+  ],
+
+  "canvasCollection": [
+    {
+      "points": 1,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Gehaaste wetenschap en drama",
+          "newsArticleMessage": "Na de ophef over het ontruimen van sinaasappels uit de supermarktschappen, is er wederom onrust in de wetenschappelijke wereld. De beslissing om de schappen te ontruimen zou voortkomen uit een onderzoek dat aantoonde hoe sinaasappels de kans op besmetting met het Olifantengriep virus verhoogde. Dat onderzoek werd vandaag ontkracht in een persconferentie waarin Samantha Kertam, voorzitter van de Dikke Huidenbeweging, haar excuses aanbood. De conclusies uit het onderzoek bleken overhaast en ongefundeerd.",
+          "newsArticleSource": "~ Wauw! Magazine ~",
+          "newsArticlePopup": true
+        },
+        {
+          "newsArticleTitle": "Piek uitbraak Olifantengriep in Zuid-Kropslavië",
+          "newsArticleMessage": "Olifantencijfers in Zuid-Kropslavië zijn de afgelopen weken met onvoorstelbare snelheid omhoog geschoten. Vooral in de grote steden zijn de besmettingscijfers schrikbarend. Het Zuid-Kropslavische ministerie van Welzijn rapporteert overvolle ziekenhuizen en geeft aan sporthalen en congrescentra in te willen zetten als opvang locaties voor patiënten.",
+          "newsArticleSource": "~ Degressia Dagblad ~",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "Noord-Kropslavië ziet eerste resultaten van maatregelen tegen Olifantengriep",
+          "newsArticleMessage": "Als eerste getroffen land heeft Noord-Kropslavië in korte tijd een groot aantal verregaande maatregelen genomen om de verspreiding van het virus te bedwingen. Deze lijken nu hun eerste vruchten af te werpen. De snelheid waarmee het aantal besmettingen stijgt lijkt af te nemen. Of de huidige maatregelen voldoende zijn is momenteel nog niet te zeggen.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": false
+        }
+      ],
+      "infections": {
+        "healthy": 19315268,
+        "infected": 46747,
+        "mutated": 800
+      }
+    },
+    {
+      "points": 2,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Wat is gezond?",
+          "newsArticleMessage": "Veel is nog onduidelijk over de werking van het Olifantengriep virus. Zo beweerde de Dikke Huidenbeweging dat de verspreiding van het virus versneld zou worden door het eten van sinaasappels. Op verschillende plekken wordt er verder onderzoek gedaan naar deze bewering maar vooralsnog zonder definitief resultaat. Uit voorzorg zijn in bepaalde regio's de vruchten al preventief uit de schappen gehaald.",
+          "newsArticleSource": "~ Pretechnostan Post ~",
+          "newsArticlePopup": true
+        },
+        {
+          "newsArticleTitle": "Piek uitbraak Olifantengriep in Zuid-Kropslavië",
+          "newsArticleMessage": "Olifantencijfers in Zuid-Kropslavië zijn de afgelopen weken met onvoorstelbare snelheid omhoog geschoten. Vooral in de grote steden zijn de besmettingscijfers schrikbarend. Het Zuid-Kropslavische ministerie van Welzijn rapporteert overvolle ziekenhuizen en geeft aan sporthalen en congrescentra in te willen zetten als opvang locaties voor patiënten.",
+          "newsArticleSource": "~ Degressia Dagblad ~",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "Noord-Kropslavië ziet eerste resultaten van maatregelen tegen Olifantengriep",
+          "newsArticleMessage": "Als eerste getroffen land heeft Noord-Kropslavië in korte tijd een groot aantal, verregaande maatregelen genomen om de verspreiding van het virus te bedwingen. Deze lijken nu hun eerste vruchten af te werpen. De snelheid waarmee het aantal besmettingen stijgt lijkt af te nemen. Of de huidige maatregelen voldoende zijn is momenteel nog niet te zeggen.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": false
+        }
+      ],
+      "infections": {
+        "healthy": 19327794,
+        "infected": 34404,
+        "mutated": 617
+      }
+    },
+    {
+      "points": 3,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Wat is gezond?",
+          "newsArticleMessage": "Veel is nog onduidelijk over de werking van het Olifantengriep virus. Zo beweerde de Dikke Huidenbeweging dat de verspreiding van het virus versneld zou worden door het eten van sinaasappels. Op verschillende plekken wordt er verder onderzoek gedaan naar deze bewering maar vooralsnog zonder definitief resultaat. Uit voorzorg zijn in bepaalde regio's de vruchten al preventief uit de schappen gehaald.",
+          "newsArticleSource": "~ Pretechnostan Post ~",
+          "newsArticlePopup": true
+        },
+        {
+          "newsArticleTitle": "Piek uitbraak Olifantengriep in Zuid-Kropslavië",
+          "newsArticleMessage": "Olifantencijfers in Zuid-Kropslavië zijn de afgelopen weken met onvoorstelbare snelheid omhoog geschoten. Vooral in de grote steden zijn de besmettingscijfers schrikbarend. Het Zuid-Kropslavische ministerie van welzijn rapporteert overvolle ziekenhuizen en geeft aan sporthalen en congrescentra in te willen zetten als opvang locaties voor patiënten.",
+          "newsArticleSource": "~ Degressia Dagblad ~",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "Noord-Kropslavië ziet eerste resultaten van maatregelen tegen Olifantengriep",
+          "newsArticleMessage": "Als eerste getroffen land heeft Noord-Kropslavië in korte tijd een groot aantal verregaande maatregelen genomen om de verspreiding van het virus te bedwingen. Deze lijken nu hun eerste vruchten af te werpen. De snelheid waarmee het aantal besmettingen stijgt lijkt af te nemen. Of de huidige maatregelen voldoende zijn is momenteel nog niet te zeggen.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": false
+        }
+      ],
+      "infections": {
+        "healthy": 19337560,
+        "infected": 24792,
+        "mutated": 463
+      }
+    },
+    {
+      "points": 4,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Wat is gezond?",
+          "newsArticleMessage": "Veel is nog onduidelijk over de werking van het Olifantengriep virus. Zo beweerde de Dikke Huidenbeweging dat de verspreiding van het virus versneld zou worden door het eten van sinaasappels. Op verschillende plekken wordt er verder onderzoek gedaan naar deze bewering maar vooralsnog zonder definitief resultaat. Uit voorzorg zijn in bepaalde regio's de vruchten al preventief uit de schappen gehaald.",
+          "newsArticleSource": "~ Pretechnostan Post ~",
+          "newsArticlePopup": true
+        },
+        {
+          "newsArticleTitle": "Piek uitbraak Olifantengriep in Zuid-Kropslavië",
+          "newsArticleMessage": "Olifantencijfers in Zuid-Kropslavië zijn de afgelopen weken met onvoorstelbare snelheid omhoog geschoten. Vooral in de grote steden zijn de besmettingscijfers schrikbarend. Het Zuid-Kropslavische ministerie van Welzijn rapporteert overvolle ziekenhuizen en geeft aan sporthalen en congrescentra in te willen zetten als opvang locaties voor patiënten.",
+          "newsArticleSource": "~ Degressia Dagblad ~",
+          "newsArticlePopup": false
+        },
+        {
+          "newsArticleTitle": "Noord-Kropslavië ziet eerste resultaten van maatregelen tegen Olifantengriep",
+          "newsArticleMessage": "Als eerste getroffen land heeft Noord-Kropslavië in korte tijd een groot aantal verregaande maatregelen genomen om de verspreiding van het virus te bedwingen. Deze lijken nu hun eerste vruchten af te werpen. De snelheid waarmee het aantal besmettingen stijgt lijkt af te nemen. Of de huidige maatregelen voldoende zijn is momenteel nog niet te zeggen.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": false
+        }
+      ],
+      "infections": {
+        "healthy": 19345797,
+        "infected": 16684,
+        "mutated": 334
+      }
+    },
+    {
+      "points": 5,
+      "newsArticleCollection": [
+        {
+          "newsArticleTitle": "Onrust in de wetenschappelijke wereld",
+          "newsArticleMessage": "Samantha Kertam, voorzitter van Dikke Huidenbeweging, bood vanochtend haar excuses aan in een persconferentie. De persconferentie volgde na de ophef die voortkwam uit een verdiepend onderzoek naar de effecten van sinaasappels op de besmettingsgraad van de Olifantengriep. Aanleiding voor dit onderzoek waren de beweringen van de Dikke Huidenbeweging dat sinaasappels besmetting met de Olifantengriep zouden verhogen, deze uitspraken bleken gebaseerd op onvoldoende data en daarmee ongegrond. ",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": true
+        },
+        {
+          "newsArticleTitle": "Piek uitbraak Olifantengriep in Zuid-Kropslavië",
+          "newsArticleMessage": "Olifantencijfers in Zuid-Kropslavië zijn de afgelopen weken met onvoorstelbare snelheid omhoog geschoten. Vooral in de grote steden zijn de besmettingscijfers schrikbarend. Het Zuid-Kropslavische ministerie van Welzijn rapporteert overvolle ziekenhuizen en geeft aan sporthalen en congrescentra in te willen zetten als opvanglocaties voor patiënten.",
+          "newsArticleSource": "~ Degressia Dagblad ~",
+          "newsArticlePopup": true
+        },
+        {
+          "newsArticleTitle": "Noord-Kropslavië ziet eerste resultaten van maatregelen tegen Olifantengriep",
+          "newsArticleMessage": "Als eerste getroffen land heeft Noord-Kropslavië in korte tijd een groot aantal verregaande maatregelen genomen om de verspreiding van het virus te bedwingen. Deze lijken nu hun eerste vruchten af te werpen. De snelheid waarmee het aantal besmettingen stijgt lijkt af te nemen. Of de huidige maatregelen voldoende zijn is momenteel nog niet te zeggen.",
+          "newsArticleSource": "~ Daily Digitanzanië ~",
+          "newsArticlePopup": false
+        }
+      ],
+      "infections": {
+        "healthy": 19352160,
+        "infected": 10422,
+        "mutated": 233
+      }
+    }
+  ]
+}
